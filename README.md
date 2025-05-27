@@ -1,9 +1,8 @@
 # AI Placement Prediction Project
+![image](https://github.com/Dyaruro1/AI-Proyect-PlacementPrediction/blob/main/banner-800x300.png)
 
 ## Placement Prediction Dataset
 Este dataset se centra en la predicción de la empleabilidad de estudiantes en función de su desempeño académico, experiencia práctica y habilidades blandas. Contiene información sobre calificaciones, participación en pasantías, proyectos, certificaciones y actividades extracurriculares, así como puntajes en pruebas de aptitud y entrenamientos específicos para la colocación laboral. Su objetivo es analizar qué factores influyen en la posibilidad de que un estudiante consiga un empleo tras finalizar sus estudios.
-
-![image](https://github.com/Dyaruro1/AI-Proyect-PlacementPrediction/blob/main/banner-800x300.png)
 
 ## Objetivo
 

@@ -19,6 +19,6 @@ El objetivo de aplicar un modelo de aprendizaje automático clásico a este conj
 
 ## Enlaces de Interes
 
-- Presentacion online:
-- Dataset: 
-- Video explicacion completa proyecto: 
+- Presentacion online: https://www.canva.com/design/DAGmD6BY1HI/olnrzw11LP6f-8RnDMOSHg/edit?utm_content=DAGmD6BY1HI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Dataset: https://www.kaggle.com/datasets/ruchikakumbhar/placement-prediction-dataset
+- Video explicacion completa proyecto: https://youtu.be/8EuqnWeB_ZM?si=5ax8c1CU7C22I7rk
